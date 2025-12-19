@@ -483,3 +483,11 @@ Google Colab đã cung cấp GPU miễn phí để training model
 Các tác giả của papers và tutorials đã giúp chúng em hiểu sâu hơn về LSTM và predictive maintenance
 
 Các bạn trong lớp đã support và discuss trong quá trình làm dự án
+
+## link slide
+
+https://www.canva.com/design/DAG72zCuvMA/Dv-b3U_dY3HSNQLK_y5q-Q/edit
+
+## link youtube
+
+https://www.youtube.com/watch?v=QKofFqgNuEE&feature=youtu.be
