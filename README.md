@@ -478,8 +478,6 @@ Chúng em xin cảm ơn:
 
 Giảng viên môn 62FIT4ATI đã hướng dẫn và cung cấp dataset
 
-Google Colab đã cung cấp GPU miễn phí để training model
-
 Các tác giả của papers và tutorials đã giúp chúng em hiểu sâu hơn về LSTM và predictive maintenance
 
 Các bạn trong lớp đã support và discuss trong quá trình làm dự án
