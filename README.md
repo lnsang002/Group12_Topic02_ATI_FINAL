@@ -67,14 +67,18 @@ Nếu gặp lỗi khi cài TensorFlow thì có thể tham khảo thêm tài li�
 
 ```
 project/
-├── 62FIT4ATI_Group12_Topic2.ipynb    # Notebook chính chứa toàn bộ code
+├── 62FIT4ATI_FINAL_GROUP12.ipynb     # Notebook chính chứa toàn bộ code
 ├── best_pump_model.h5                # Model đã train xong
 ├── scaler.pkl                        # StandardScaler đã fit
 ├── label_encoder.pkl                 # LabelEncoder cho nhãn
 ├── training_history.json             # Lịch sử training qua các epoch
+├── training_analysis.png             # Biểu đồ phân tích quá trình training
+├── report_result.md                  # Báo cáo kết quả dự án (Markdown)
+├── report_result.pdf                 # Báo cáo kết quả dự án (PDF)
+├── techniques_model.md               # Tài liệu về các kỹ thuật và model
 ├── README.md                         # File này
 └── data/
-    └── sensor.csv                    # Dataset gốc
+    └── sensor.csv                    # Dataset gốc (cần tải từ link bên trên)
 ```
 
 ## Hướng Dẫn Sử Dụng
